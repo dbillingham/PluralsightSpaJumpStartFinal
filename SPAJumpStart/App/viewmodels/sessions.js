@@ -1,4 +1,5 @@
-﻿define(['services/datacontext', 'durandal/plugins/router'],
+﻿//TODO
+define(['services/datacontext', 'durandal/plugins/router'],
     function (datacontext, router) {
         var sessions = ko.observableArray();
 
